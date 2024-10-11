@@ -2,23 +2,23 @@
 The objectives of the HR Analytics Dashboard are to provide a comprehensive overview of key HR metrics such as total employees, gender distribution, and attrition rates. These objectives help HR teams to better understand their workforce, address issues proactively, and create a more efficient and supportive work environment.
 
 **Steps to Design HR Analytical Dashboard:** 
-	Create Report Background in PowerPoint
-•	Create Slicers – Gender, Education Field, Department.
-•	Create KPI cards – Total Employees, Attrition, Active Employees, Attrition Rate, Average Age.
-•	Create Visuals:
-•	Total Employee % by Gender
-•	Education wise Attrition Count
-•	Attrition by Job Role
-•	Department wise Attrition
-•	Attrition by Age Group
-•	Attrition by Marital Status
-•	Star Rating Visual
+1.	Create Report Background in PowerPoint
+2.	Create Slicers – Gender, Education Field, Department.
+3.	Create KPI cards – Total Employees, Attrition, Active Employees, Attrition Rate, Average Age.
+4.	Create Visuals:
+4.1	Total Employee % by Gender
+4.2	Education wise Attrition Count
+4.3	Attrition by Job Role
+4.4	Department wise Attrition
+4.5	Attrition by Age Group
+4.6	Attrition by Marital Status
+4.7	Star Rating Visual
 
 **Here is a summary of the insights from the HR Analytics Dashboard:**
-•	Total Employees: 1470 employees, with 1233 active and 237 attrition cases.
-•	Gender Distribution: The dashboard shows the gender split among employees.
-•	Attrition Analysis: Attrition rates are broken down by age group, marital status, department, education and job role.
-•	Metrics: Includes metrics on job satisfaction ratings and attrition rate %, average age of employees.
+1.	Total Employees: 1470 employees, with 1233 active and 237 attrition cases.
+2.	Gender Distribution: The dashboard shows the gender split among employees.
+3.	Attrition Analysis: Attrition rates are broken down by age group, marital status, department, education and job role.
+4.	Metrics: Includes metrics on job satisfaction ratings and attrition rate %, average age of employees.
 
 ### Snapshot of HR Analytics-Dashboard (MS Excel)
 
